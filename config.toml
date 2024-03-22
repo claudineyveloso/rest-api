@@ -1,8 +1,0 @@
-[api]
-port = "8080"
-
-[database]
-host = "localhost"
-user = "user_projectmanager_development"
-password = "pwd_projectmanager_development"
-name = "projectmanager_development"
